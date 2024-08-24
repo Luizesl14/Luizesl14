@@ -19,11 +19,11 @@ Tenho conhecimento avançado em Spring Cloud e frameworks relacionados, aplicand
 
 Minha atuação inclui o desenvolvimento de soluções financeiras e pagamentos eletrônicos, com profundo conhecimento do padrão ISO 8583, trabalhando com adquirentes, emissores e bandeiras como MasterCard, Visa e Elo. Tenho experiência prática em migrações de sistemas e otimização de performance Java, incluindo soluções avançadas.
 
-<div> 
-  <a href="mailto:luiz.develop@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-augusto-esl14/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Luizesl14" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luiz.develop@gmail.com)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=62991877271&text&type=phone_number&app_absent=0)
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizesl_araujo/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto-esl14/)
+![]()
 
 ##
 
@@ -34,15 +34,6 @@ Minha atuação inclui o desenvolvimento de soluções financeiras e pagamentos 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizesl14&layout=compact&theme=radical&border_radius=8)
 ![Luiz Araújo Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Luizesl14&theme=radical&border_radius=8)
 
-
-
-## Social Media
-
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luiz.develop@gmail.com)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=62991877271&text&type=phone_number&app_absent=0)
-[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizesl_araujo/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto-esl14/)
-![]()
 
 ## Tecnologies
 
